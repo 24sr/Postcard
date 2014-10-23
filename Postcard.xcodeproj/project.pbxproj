@@ -13,6 +13,8 @@
 		5586B9E819F84AD1002DFF6A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5586B9E719F84AD1002DFF6A /* Images.xcassets */; };
 		5586B9EB19F84AD1002DFF6A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5586B9E919F84AD1002DFF6A /* LaunchScreen.xib */; };
 		5586B9F719F84AD1002DFF6A /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5586B9F619F84AD1002DFF6A /* PostcardTests.swift */; };
+		5586BA0119F8513F002DFF6A /* Joe_on_a_plane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5586BA0019F8513F002DFF6A /* Joe_on_a_plane.jpg */; };
+		5586BA0319F854C8002DFF6A /* Mummy_on_a_boat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5586BA0219F854C8002DFF6A /* Mummy_on_a_boat.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		5586B9F019F84AD1002DFF6A /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5586B9F519F84AD1002DFF6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5586B9F619F84AD1002DFF6A /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		5586BA0019F8513F002DFF6A /* Joe_on_a_plane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Joe_on_a_plane.jpg; sourceTree = "<group>"; };
+		5586BA0219F854C8002DFF6A /* Mummy_on_a_boat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mummy_on_a_boat.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		5586B9DE19F84AD1002DFF6A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5586BA0019F8513F002DFF6A /* Joe_on_a_plane.jpg */,
+				5586BA0219F854C8002DFF6A /* Mummy_on_a_boat.jpg */,
 				5586B9DF19F84AD1002DFF6A /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				5586B9E619F84AD1002DFF6A /* Main.storyboard in Resources */,
 				5586B9EB19F84AD1002DFF6A /* LaunchScreen.xib in Resources */,
+				5586BA0119F8513F002DFF6A /* Joe_on_a_plane.jpg in Resources */,
+				5586BA0319F854C8002DFF6A /* Mummy_on_a_boat.jpg in Resources */,
 				5586B9E819F84AD1002DFF6A /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
